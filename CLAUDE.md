@@ -13,3 +13,11 @@
   de Greg lit la copie GitHub.
 - Créer `TODO.md` dès qu'une action revient à Greg.
 - Ce dépôt est public : n'y écrire aucune donnée personnelle.
+
+## Agenda et rappels
+
+- Ne jamais créer, déplacer ni supprimer d'événement dans les agendas Google de
+  l'utilisateur sans le lui demander d'abord.
+- Pour un rappel ou une action datée : créer une tâche programmée Claude dans la
+  session concernée (`send_later`), et noter l'échéance dans `TODO.md`
+  (`— échéance : AAAA-MM-JJ`) pour que le briefing quotidien la reprenne.
